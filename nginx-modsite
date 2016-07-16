@@ -2,7 +2,7 @@
 
 ##
 #  File:
-#    nginx-modsite
+#    nginx-modsite: Ubuntu version!
 #  Description:
 #    Provides a basic script to automate enabling and disabling websites found
 #    in the default configuration directories:
